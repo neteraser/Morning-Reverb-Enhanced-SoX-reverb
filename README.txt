@@ -1,0 +1,1 @@
+This is the new software reverb effect to be used in your applications, contemporary 16bit reverb versus the old 8bit reverb from the SoX library, 1991 versus 1996, please make a finer version yourself. There is some space to enhance the reverb tails further.
